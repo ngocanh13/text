@@ -1,0 +1,107 @@
+body{
+    color: #777;
+    background-color:#f8f6f3;
+    padding: 0px;
+    margin: 0px;
+}
+header .portfolio{
+    background-color: #e4f1e7;
+    padding: 20px;
+}
+
+header h1 {
+    color:rgb(0, 255, 47);
+    font-size: 50px;
+    text-align: center;
+}
+header .my-portfolio{
+    background-color: #777;
+    text-align: center;
+}
+header .my-portfolio a{
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+.my-portfolio a:hover{
+    color: rgb(0, 255, 47);
+}
+
+header p{
+    
+    font-size: 16px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+.home a{
+    color: black;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+main h2{
+    color: rgb(0, 255, 47);
+}
+section h2{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.projects {
+    display: flex;
+    text-align: center;
+ }
+
+ .projects div img {
+    max-width: 100%;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+}
+main .information{
+    padding: 20px 20px 200px;
+}
+
+main #skills{
+    text-align: center;
+    border: 2px solid #777;
+    margin: 10px;
+}
+main li{
+    list-style-type: none;
+   
+}
+main #contact{
+    text-align: center;
+    padding: 100px;
+}
+main #contact h2{
+ padding: 20px;
+}
+.submit-button{
+    background-color: #777;
+    color: white;
+}
+.submit-button:hover{
+    color: rgb(0, 255, 47);
+}
+footer {
+    background-color: #e4f1e7;
+    padding: 10px;
+    margin: 0px;
+}
